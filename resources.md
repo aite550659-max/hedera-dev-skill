@@ -22,6 +22,14 @@
 - [Fireblocks](https://www.fireblocks.com/) - Institutional custody (HBAR, EVM)
 - [Copper](https://copper.co/) - Institutional custody (HBAR, EVM, HTS assets)
 
+## Wallet Infrastructure (Programmatic)
+- [Coinbase CDP](https://docs.cdp.coinbase.com/) - Server-side wallet creation & management
+- [Fireblocks](https://www.fireblocks.com/) - MPC wallet infrastructure (enterprise)
+- [Dfns](https://www.dfns.co/) - Wallet-as-a-service API
+- [Turnkey](https://www.turnkey.com/) - Non-custodial wallet infra
+- [Privy](https://www.privy.io/) - Embedded wallets for apps
+- [Magic](https://magic.link/) - Passwordless auth + wallets
+
 ## Smart Contracts
 - [Hedera Smart Contracts](https://github.com/hashgraph/hedera-smart-contracts) - Precompile interfaces
 - [HTS Precompiles](https://docs.hedera.com/hedera/core-concepts/smart-contracts/supported-erc-token-standards) - Token precompiles
